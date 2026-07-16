@@ -48,5 +48,5 @@ jupyter notebook Capstone.ipynb
 ## Notes
 
 This project was completed as part of a machine learning course capstone. AI tools were used
-during parts of the development process (debugging, drafting explanations, and reviewing
-reasoning); see the AI Use Attestation section at the end of the notebook for details.
+during parts of the development process (debugging and reviewing reasoning); 
+see the AI Use Attestation section at the end of the notebook for details.
